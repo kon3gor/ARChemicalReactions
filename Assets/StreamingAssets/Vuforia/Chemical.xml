@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="P" size="500.000000 500.000000" />
+    <ImageTarget name="Na" size="500.000000 500.000000" />
+    <ImageTarget name="N" size="500.000000 500.000000" />
+    <ImageTarget name="Mn" size="500.000000 500.000000" />
+    <ImageTarget name="Li" size="500.000000 500.000000" />
+    <ImageTarget name="S" size="500.000000 500.000000" />
+    <ImageTarget name="K" size="500.000000 500.000000" />
+    <ImageTarget name="Ca" size="500.000000 500.000000" />
+    <ImageTarget name="Ba" size="500.000000 500.000000" />
+    <ImageTarget name="Cl" size="500.000000 500.000000" />
+    <ImageTarget name="H" size="500.000000 500.000000" />
+    <ImageTarget name="Zn" size="500.000000 500.000000" />
+    <ImageTarget name="C" size="500.000000 500.000000" />
+    <ImageTarget name="O" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
